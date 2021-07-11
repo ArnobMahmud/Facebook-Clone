@@ -1,3 +1,15 @@
+# Facebook Clone
+
+<h4>Facebook web Homepage clone by ReactJS. Including widgets : Header, Sidebar, Feed { Story-section, Create-post-section, Timeline-section }, Contact-side-bar. </h4>
+
+
+[![](https://img.shields.io/badge/Apache-License-critical?style=plastic&logo=appveyor&logoColor=a70023&labelColor=lightblue&color=471e61)](https://github.com/ArnobMahmud/Facebook-Clone/blob/master/LICENSE)&nbsp;
+[![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507)](https://github.com/ArnobMahmud/)&nbsp;
+[![made-with-jQ](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg?style=plastic&logo=JavaScript&color=e1d1eb&logoColor=faed3e&labelColor=471e61)](https://github.com/facebook/create-react-app)
+
+![facebook-clone](https://user-images.githubusercontent.com/60808266/125189240-e1e7db00-e258-11eb-9b60-3f57b7b11689.png)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
