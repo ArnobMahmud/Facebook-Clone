@@ -25,7 +25,7 @@ export default function Header() {
           </a>
           <div className="search_section form-control">
             <SearchIcon className="search_icon" />
-            <input type="text" placeholder="Search Here"></input>
+            <input type="text" placeholder="Search Facebook"></input>
           </div>
         </div>
         <div className="header_middle">
@@ -114,6 +114,7 @@ const HeaderSection = styled.div`
   }
   .active {
     color: #2e81f4;
+    border-bottom: 3px solid #2e81f4;
   }
   .header_right {
     display: flex;
@@ -135,7 +136,7 @@ const HeaderSection = styled.div`
       display: none;
     }
     .header_option {
-      margin: 0px 20px ;
+      margin: 0px 20px;
     }
   }
 `;

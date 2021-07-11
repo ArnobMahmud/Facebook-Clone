@@ -4,9 +4,9 @@ import React from "react";
 import styled from "styled-components";
 
 export default function MessageSender() {
-  const handleSubmit = (e) => {
-    e.preventDefault();
-  };
+  // const handleSubmit = (e) => {
+  //   e.preventDefault();
+  // };
   return (
     <>
       <MessageSenderSection>
@@ -17,10 +17,10 @@ export default function MessageSender() {
               className="messageSender_input"
               placeholder="What's on your mind?"
             />
-            <input placeholder="Image URL" className="messageSender_input" />
-            <button onClick={handleSubmit} type="submit">
+            {/* <input placeholder="Image URL" className="messageSender_input" /> */}
+            {/* <button onClick={handleSubmit} type="submit">
               Hidden Submit
-            </button>
+            </button> */}
           </form>
         </div>
         <div className="message-sender-down">
@@ -66,10 +66,8 @@ const MessageSenderSection = styled.div`
     outline: none;
     margin-left: 10px;
     padding: 10px 20px;
-    -webkit-appearance: none;
-    -moz-appearance: none;
-    appearance: none;
     border-radius: 30px;
+    width: 300%;
   }
   .message-sender-down {
     justify-content: space-around;
