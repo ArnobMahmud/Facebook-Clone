@@ -7,7 +7,6 @@
 [![develop-with-arnob](https://img.shields.io/badge/Develop%20with-Arnob%20Mahmud-1f425f.svg?style=plastic&logo=visual-studio-code&logoColor=007ACC&labelColor=c3c4d5&color=193507)](https://github.com/ArnobMahmud/)&nbsp;
 [![made-with-jQ](https://img.shields.io/badge/Made%20with-JavaScript-1f425f.svg?style=plastic&logo=JavaScript&color=e1d1eb&logoColor=faed3e&labelColor=471e61)](https://github.com/facebook/create-react-app)
 
-![facebook-clone](https://user-images.githubusercontent.com/60808266/125189240-e1e7db00-e258-11eb-9b60-3f57b7b11689.png)
 
 
 # Getting Started with Create React App
